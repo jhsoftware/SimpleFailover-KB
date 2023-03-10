@@ -1,4 +1,4 @@
-﻿---
+---
 category: 4
 frontpage: false
 comments: true
@@ -21,4 +21,4 @@ If you have to use Microsoft's DNS server and run into problems with WMI updates
 There is a blog article dealing with WMI and DCOM permissions issues [here](http://blogs.technet.com/jhoward/archive/2008/03/28/part-1-hyper-v-remote-management-you-do-not-have-the-requested-permission-to-complete-this-task-contact-the-administrator-of-the-authorization-policy-for-the-computer-computername.aspx).
 This article is about Hyper-V, but is deals with the same WMI and DCOM issues that many Simple Failover users have reported.
 
-Otherwise we recommend that you use a DNS server which supports TSIG signed updates, such as [BIND](https://www.isc.org) or [Simple DNS Plus](https://simpledns.com).
+Otherwise we recommend that you use a DNS server which supports TSIG signed updates, such as [BIND](https://www.isc.org) or [Simple DNS Plus](https://simpledns.plus).
