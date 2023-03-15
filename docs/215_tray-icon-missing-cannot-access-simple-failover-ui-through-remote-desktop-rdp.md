@@ -22,18 +22,18 @@ To access the Simple Failover main dialog through a Terminal Services session:
 Using Remote Desktop client v. 6.1 or later (Windows XP SP3, Windows Vista SP1, Windows Server 2008).
 Add the option " /admin" to the shortcut-target and click "OK":
 
-![Image2.png](img/7/1.png)
+![Image2.png](img/215/1.png)
 
 Using Remote Desktop client v. 6.0 or earlier. Add the option " /console" to the shortcut-target and click "OK".  
 
-![Image1.png](img/7/2.png)
+![Image1.png](img/215/2.png)
 
 For details on the difference between /console and /admin [click here](http://blogs.msdn.com/ts/archive/2007/12/17/changes-to-remote-administration-in-windows-server-2008.aspx).
 
 If you connect to the remote server with a saved RDP file, then you can add an option string to the file, that specifies the session opens in the console.  
 Open the RDP file with Notepad and add the option "connect to console:i:1" to the file and save.  
 
-![Image3.png](img/7/3.png)
+![Image3.png](img/215/3.png)
 
 NOTE: Adding this to the RDP file does NOT work with Remote Desktop client v. 6.1 (Windows XP SP3, Windows Vista SP1, Windows Server 2008) - use /admin option instead - see above.  
 
