@@ -1,6 +1,6 @@
 ﻿# Simple Failover knowledge base
 
-The documentation contained in this repository is hosted at <https://support.simplefailover.com/kb>
+The documentation contained in this repository is hosted at <https://kb.simplefailover.com>
 
 ## Contributions
 
