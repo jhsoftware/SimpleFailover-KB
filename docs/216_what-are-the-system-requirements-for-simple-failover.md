@@ -7,7 +7,7 @@ modified-utc: 2019-01-01
 ---
 # What are the system requirements for Simple Failover?
 
-<table class="table table-bordered table-striped">
+<table>
 <tr>
 	<td style="vertical-align:top">Operating system:</td>
 	<td>Any edition of:<br />
